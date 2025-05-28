@@ -2,29 +2,23 @@
 
 
 
-## Group Information
-
-```
-#Group 26
-```
 
 ## Project Members
 
-| Name    | Roll | EmailID |
-| -------- | ------- | ------- |
-| Divyansh | 210355 | divyansh21@iitk.ac.in |               
-| Rajeev Kumar | 210815 | rajeevks21@iitk.ac.in |             
-| Sandeep Nitharwal | 210921 | nsandeep21@iitk.ac.in
+| Name    | Roll |  
+| ---------| -----------| 
+| Karan Joshi              | 2261310  |               
+| Uttkarsh Kumar Joshi     |    2261584 |               
+| Vinod Singh Barti        | 2261614 |
+| Vishal Gupta             | 2261615 |
 
-                 
+ 
 
-TA-`Vinay Agrawal`
-
-# SANKLAk : A python Compiler
+# LLVM Python Compiler
 
 ## Abstract
 
-**SANKLAK** is a compiler for statically typed subset of python programming language. The lexer and the parser for this compiler is written using `Flex` and `Bison` utility while the semantic actions, helper functions and linkages are implemented in `C++`.
+ LLVM  is a compiler for statically typed subset of python programming language. The lexer and the parser for this compiler is written using `Flex` and `Bison` utility while the semantic actions, helper functions and linkages are implemented in `C++`.
 
 ## Running Instructions
 

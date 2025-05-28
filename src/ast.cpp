@@ -7,6 +7,7 @@ struct ast_node* new_ast_node(
 								string nonterminal,
 								vector<ast_node *> children
 							 )
+// Define a Struture node 
 {
     struct ast_node *temp = new ast_node;
 	temp->line_num = line_num;
